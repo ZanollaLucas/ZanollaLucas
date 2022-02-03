@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Zanolla <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hi there, I'm Lucas Zanolla <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center">
   <a href="https://github.com/ZanollaLucas">
@@ -6,8 +6,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanollaLucas&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
+## About me 🧑🏻‍💻
+  
+   
+  
 ## My Skills 💻
    
+ 
  
 ## Contact 📱
   
@@ -17,7 +22,7 @@
    <a href="https://www.linkedin.com/in/zanollalucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </p>
 
- # My Comits 🐍
+ ## My Comits 🐍
   
   ![Snake animation](https://github.com/ZanollaLucas/ZanollaLucas/blob/output/github-contribution-grid-snake.svg)
   
