@@ -16,7 +16,7 @@
   <p> - LALALALALLALA BOTAR ALGO LEGAL E ENGRAÇADO? </p>
   
   <p> - FAZER A TRADUÇÃO DOS DE CIMA PARA INGLES </p>
-  <p> - FAZER A TRADUÇÃO DOS DE CIMA PARA INGLES E ALEMÃO </p>
+  
   <p> - FAZER A TRADUÇÃO DOS DE CIMA PARA ALEMÃO </p>
   
   
@@ -37,6 +37,10 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+  
+  
 
     
    
