@@ -11,13 +11,11 @@
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/ZanollaLucas/ZanollaLucas/blob/main/Eudeseenhado.png">
   
-  <p> - 👨🏻‍💻 Engenheiro Eletricista com Mestrado em Computação Aplicada. </p>
-  <p> - 🎯 Interesses: Estatística, Eletrônica, Processamento de Imagens, Data Analysis, Data visualization, Data Science and IA . </p>
-  <p> - LALALALALLALA BOTAR ALGO LEGAL E ENGRAÇADO? </p>
-  
-  <p> - FAZER A TRADUÇÃO DOS DE CIMA PARA INGLES </p>
-  
-  <p> - FAZER A TRADUÇÃO DOS DE CIMA PARA ALEMÃO </p>
+  <p> - 👨🏻‍💻 Engenheiro Eletricista com Mestrado em Computação Aplicada. / Electrical Engineer with a Masters in Applied Computer Science. </p>
+  <p> - 🎯 Interesses: Estatística, Eletrônica, Processamento de Imagens, Data Analysis, Data visualization, Data Science and IA. / Interests: Statistics, Electronics, Image Processing, Data Analysis, Data visualization, Data Science and AI. </p>
+  <p> - :man_cartwheeling: Gosto de ficar de ponta-cabeça pra pensar melhor hahaha, cada um com seus hobbies. / I like to stay upside down to think better hahaha, each one with their hobbies. </p>
+   
+  <p> - 📚 E no momento estou aprender Alemão e Italiano, / At now I'm learning German and Italian </p>
   
   
 </div>
