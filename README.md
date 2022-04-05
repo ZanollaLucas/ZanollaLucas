@@ -15,7 +15,7 @@
   <p> - 🎯 Interesses: Estatística, Eletrônica, Processamento de Imagens, Data Analysis, Data visualization, Data Science and IA. / Interests: Statistics, Electronics, Image Processing, Data Analysis, Data visualization, Data Science and AI. </p>
   <p> - :man_cartwheeling: Gosto de ficar de ponta-cabeça pra pensar melhor, cada um com seus hobbies hahaha. / I like to stay upside down just to think better, each one with their hobbies hahahah. </p>
    
-  <p> - 📚 E no momento estou aprender Alemão e Italiano, / At now I'm learning German and Italian </p>
+  <p> - 📚 E no momento estou aprender Alemão e Italiano, / And now I'm learning German and Italian </p>
   
   
 </div>
