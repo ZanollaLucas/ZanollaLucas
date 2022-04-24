@@ -9,8 +9,9 @@
 ## About me 👨🏻‍💻
   
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/ZanollaLucas/ZanollaLucas/blob/main/Eudeseenhado.png">
-  
+  <a href="https://www.instagram.com/pixie_soul_art/?igshid=YmMyMTA2M2Y=">
+      <img align="right" width="250" height="250" style="border-radius:30px;" src="https://github.com/ZanollaLucas/ZanollaLucas/blob/main/Eudeseenhado.png">
+  </a>
   <p> - 👨🏻‍💻 Engenheiro Eletricista com Mestrado em Computação Aplicada. / Electrical Engineer with a Masters in Applied Computer Science. </p>
   <p> - 🎯 Interesses: Estatística, Eletrônica, Processamento de Imagens, Data Analysis, Data visualization, Data Science and IA. / Interests: Statistics, Electronics, Image Processing, Data Analysis, Data visualization, Data Science and AI. </p>
   <p> - :man_cartwheeling: Gosto de ficar de ponta-cabeça pra pensar melhor, cada um com seus hobbies hahaha. / I like to stay upside down just to think better, each one with their hobbies hahahah. </p>
