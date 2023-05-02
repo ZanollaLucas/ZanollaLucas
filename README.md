@@ -1,10 +1,5 @@
 # Hi there, I'm Lucas Zanolla <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<div align="center">
-  <a href="https://github.com/ZanollaLucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZanollaLucas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanollaLucas&layout=compact&langs_count=7&theme=algolia"/>
-</div>
 
 ## About me 👨🏻‍💻
   
